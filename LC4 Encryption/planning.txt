@@ -1,0 +1,11 @@
+1.  create arrays for the characters in order
+2.  make the dictionary using the formula (values = [n % 6, n / 6])
+3.  accept the input of the board and message
+4.  place marker at the beginning
+5.  look at the character in the message
+6.  look up the vector values in the table for the tile with the marker
+7.  count to the right the number of tiles for the marker starting at the plaintext tile, then down
+8.  record the character it is on
+9.  shift the row of the original character to the right 1
+10. shift the column of the original character down 1
+11. move the marker to the right and down based on the values of the ciphertext tile
