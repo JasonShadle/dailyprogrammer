@@ -34,6 +34,6 @@ while guesses > 1:
         quit()
     print(str(correctLetters) + '/' + str(lettersInWord) + ' correct.')
 
-input('You fucking blow at this game. Press Enter to move on with your crappy life.')
+input('You lost, press Enter to exit.')
 
 
